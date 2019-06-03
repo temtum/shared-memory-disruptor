@@ -8,6 +8,7 @@
 #include <memory>
 #include <vector>
 #include <unordered_map>
+#include <errno.h>
 
 typedef uint64_t sequence_t;
 
